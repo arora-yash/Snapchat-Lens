@@ -1,0 +1,401 @@
+{
+    "lens_id": "",
+    "document_id": "fy-yvXMzi3zZySuXcjN9",
+    "original_document_id": "fy-yvXMzi3zZySuXcjN9",
+    "version": "19",
+    "lastChanged": "1574088473955",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "noobtodev"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cb66716d799f2130b8bc779b317710aa",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "NoobtoDev",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1574087855878316:20507",
+                    "name": "Files\/File9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1574087860611508:20595",
+                "4": "1574087860622091:20660",
+                "5": "1574087860622468:20661"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "35",
+                        "v": "noobtodev.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "32",
+                        "v": "ab0d5c15bae569d19d9534bf854ff301"
+                    },
+                    {
+                        "k": "33",
+                        "v": "0d9c4e2c3f0dc9a453e62531b22fddf1"
+                    },
+                    {
+                        "k": "34",
+                        "v": "a3c4a7962a6952c3fc210590f3c02618"
+                    },
+                    {
+                        "k": "35",
+                        "v": "005d687c052b23333fc5b677f87403e4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-11-18T20:07:35",
+                        "name": "Public",
+                        "hash": "c82cdf5d4fce4437f2eda73378002778",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-14T04:05:21",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-14T04:05:21",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-18T20:07:14",
+                                "name": "noobtodev.png",
+                                "hash": "005d687c052b23333fc5b677f87403e4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-14T04:05:21",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "noobtodev",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1574087855878316:20507",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "35",
+                        "source": "\/Users\/yash\/noobtodev.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
